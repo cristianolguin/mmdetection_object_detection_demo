@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Nueva carpeta</folder>
+	<filename>colina_1-7.jpg</filename>
+	<path>D:\sii\percepcion_remota\Nueva carpeta\colina_1-7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>11744</width>
+		<height>6349</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2313</xmin>
+			<ymin>1149</ymin>
+			<xmax>3480</xmax>
+			<ymax>2099</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6780</xmin>
+			<ymin>1399</ymin>
+			<xmax>8097</xmax>
+			<ymax>2416</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9947</xmin>
+			<ymin>3066</ymin>
+			<xmax>10963</xmax>
+			<ymax>3966</ymax>
+		</bndbox>
+	</object>
+</annotation>
