@@ -1,7 +1,7 @@
 <annotation>
-	<folder>JPEGImages</folder>
+	<folder>Nueva carpeta</folder>
 	<filename>colina_2-5.jpg</filename>
-	<path>D:/VOC2007/JPEGImages/colina_2-5.jpg</path>
+	<path>D:\sii\percepcion_remota\Nueva carpeta\colina_2-5.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -72,159 +72,15 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>house</name>
+		<name>swimming</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>134</xmin>
-			<ymin>755</ymin>
-			<xmax>1447</xmax>
-			<ymax>1643</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>house</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2810</xmin>
-			<ymin>1380</ymin>
-			<xmax>3822</xmax>
-			<ymax>2243</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>house</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>4072</xmin>
-			<ymin>1793</ymin>
-			<xmax>5110</xmax>
-			<ymax>2693</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>house</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2435</xmin>
-			<ymin>3568</ymin>
-			<xmax>3560</xmax>
-			<ymax>4393</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>house</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>3835</xmin>
-			<ymin>3880</ymin>
-			<xmax>5035</xmax>
-			<ymax>4730</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>house</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>5335</xmin>
-			<ymin>18</ymin>
-			<xmax>6072</xmax>
-			<ymax>905</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>house</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>8847</xmin>
-			<ymin>205</ymin>
-			<xmax>9572</xmax>
-			<ymax>980</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>house</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>8810</xmin>
-			<ymin>1443</ymin>
-			<xmax>9535</xmax>
-			<ymax>2355</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>house</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>8635</xmin>
-			<ymin>3180</ymin>
-			<xmax>9897</xmax>
-			<ymax>4305</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>house</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>7485</xmin>
-			<ymin>2980</ymin>
-			<xmax>8485</xmax>
-			<ymax>3755</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>house</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>10672</xmin>
-			<ymin>4243</ymin>
-			<xmax>11710</xmax>
-			<ymax>5355</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>house</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>6372</xmin>
-			<ymin>4880</ymin>
-			<xmax>7785</xmax>
-			<ymax>6205</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>house</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>10860</xmin>
-			<ymin>1768</ymin>
-			<xmax>11535</xmax>
-			<ymax>2655</ymax>
+			<xmin>2893</xmin>
+			<ymin>5438</ymin>
+			<xmax>3307</xmax>
+			<ymax>5952</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -233,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2385</xmin>
-			<ymin>43</ymin>
-			<xmax>2947</xmax>
-			<ymax>280</ymax>
+			<xmin>2322</xmin>
+			<ymin>10</ymin>
+			<xmax>2979</xmax>
+			<ymax>352</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -245,10 +101,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>609</xmin>
-			<ymin>4218</ymin>
-			<xmax>996</xmax>
-			<ymax>4505</ymax>
+			<xmin>7793</xmin>
+			<ymin>5138</ymin>
+			<xmax>8293</xmax>
+			<ymax>5667</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -257,10 +113,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3272</xmin>
-			<ymin>5105</ymin>
-			<xmax>3935</xmax>
-			<ymax>5455</ymax>
+			<xmin>5936</xmin>
+			<ymin>1210</ymin>
+			<xmax>6579</xmax>
+			<ymax>1681</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -269,34 +125,166 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2960</xmin>
-			<ymin>5430</ymin>
-			<xmax>3322</xmax>
-			<ymax>5943</ymax>
+			<xmin>3279</xmin>
+			<ymin>5052</ymin>
+			<xmax>3922</xmax>
+			<ymax>5481</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>swimming</name>
+		<name>house</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>5910</xmin>
-			<ymin>1230</ymin>
-			<xmax>6585</xmax>
-			<ymax>1643</ymax>
+			<xmin>150</xmin>
+			<ymin>767</ymin>
+			<xmax>1365</xmax>
+			<ymax>1595</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>swimming</name>
+		<name>house</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>7810</xmin>
-			<ymin>5168</ymin>
-			<xmax>8260</xmax>
-			<ymax>5630</ymax>
+			<xmin>2822</xmin>
+			<ymin>1438</ymin>
+			<xmax>3850</xmax>
+			<ymax>2238</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4050</xmin>
+			<ymin>1810</ymin>
+			<xmax>5050</xmax>
+			<ymax>2695</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2393</xmin>
+			<ymin>3581</ymin>
+			<xmax>3522</xmax>
+			<ymax>4438</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3822</xmin>
+			<ymin>3881</ymin>
+			<xmax>5007</xmax>
+			<ymax>4638</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8793</xmin>
+			<ymin>1395</ymin>
+			<xmax>9493</xmax>
+			<ymax>2310</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6407</xmin>
+			<ymin>4881</ymin>
+			<xmax>7707</xmax>
+			<ymax>6152</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7536</xmin>
+			<ymin>2938</ymin>
+			<xmax>8493</xmax>
+			<ymax>3824</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8650</xmin>
+			<ymin>3167</ymin>
+			<xmax>9893</xmax>
+			<ymax>4338</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>house</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5293</xmin>
+			<ymin>1</ymin>
+			<xmax>6136</xmax>
+			<ymax>895</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10722</xmin>
+			<ymin>4210</ymin>
+			<xmax>11707</xmax>
+			<ymax>5381</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10850</xmin>
+			<ymin>1795</ymin>
+			<xmax>11550</xmax>
+			<ymax>2667</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8907</xmin>
+			<ymin>152</ymin>
+			<xmax>9593</xmax>
+			<ymax>1038</ymax>
 		</bndbox>
 	</object>
 </annotation>
