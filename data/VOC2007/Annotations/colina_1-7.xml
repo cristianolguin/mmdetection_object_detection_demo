@@ -180,15 +180,15 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>swimming</name>
+		<name>water</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>6367</xmin>
-			<ymin>1256</ymin>
-			<xmax>6640</xmax>
-			<ymax>1715</ymax>
+			<xmin>6421</xmin>
+			<ymin>1392</ymin>
+			<xmax>6558</xmax>
+			<ymax>1570</ymax>
 		</bndbox>
 	</object>
 	<object>

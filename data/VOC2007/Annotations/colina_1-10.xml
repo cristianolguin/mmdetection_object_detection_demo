@@ -12,18 +12,6 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>swimming</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>5776</xmin>
-			<ymin>4761</ymin>
-			<xmax>6122</xmax>
-			<ymax>5270</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>building</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>

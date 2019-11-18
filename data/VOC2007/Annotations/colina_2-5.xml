@@ -108,18 +108,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>swimming</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>3330</xmin>
-			<ymin>5034</ymin>
-			<xmax>3949</xmax>
-			<ymax>5479</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>house</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
