@@ -14,30 +14,6 @@
 	<object>
 		<name>building</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>3722</xmin>
-			<ymin>2424</ymin>
-			<xmax>5550</xmax>
-			<ymax>3153</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>building</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>7065</xmin>
-			<ymin>1024</ymin>
-			<xmax>8450</xmax>
-			<ymax>2338</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>building</name>
-		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
@@ -45,6 +21,18 @@
 			<ymin>3138</ymin>
 			<xmax>11744</xmax>
 			<ymax>4667</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>swimming</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3731</xmin>
+			<ymin>1852</ymin>
+			<xmax>4722</xmax>
+			<ymax>2361</ymax>
 		</bndbox>
 	</object>
 </annotation>

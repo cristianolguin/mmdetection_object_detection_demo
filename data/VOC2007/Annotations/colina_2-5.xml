@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1480</xmin>
-			<ymin>5261</ymin>
-			<xmax>1840</xmax>
-			<ymax>5532</ymax>
+			<xmin>1458</xmin>
+			<ymin>5197</ymin>
+			<xmax>1894</xmax>
+			<ymax>5588</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2994</xmin>
-			<ymin>5497</ymin>
-			<xmax>3267</xmax>
-			<ymax>5870</ymax>
+			<xmin>2940</xmin>
+			<ymin>5443</ymin>
+			<xmax>3285</xmax>
+			<ymax>5943</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2449</xmin>
-			<ymin>79</ymin>
-			<xmax>2885</xmax>
-			<ymax>261</ymax>
+			<xmin>2404</xmin>
+			<ymin>16</ymin>
+			<xmax>2931</xmax>
+			<ymax>324</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,14 +89,14 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>7885</xmin>
-			<ymin>5206</ymin>
-			<xmax>8203</xmax>
-			<ymax>5606</ymax>
+			<xmin>7803</xmin>
+			<ymin>5170</ymin>
+			<xmax>8249</xmax>
+			<ymax>5624</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>swimming</name>
+		<name>swim_otro</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -108,15 +108,15 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>dark_swim</name>
+		<name>swimming</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3394</xmin>
-			<ymin>5052</ymin>
-			<xmax>3858</xmax>
-			<ymax>5434</ymax>
+			<xmin>3330</xmin>
+			<ymin>5034</ymin>
+			<xmax>3949</xmax>
+			<ymax>5479</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -273,6 +273,30 @@
 			<ymin>152</ymin>
 			<xmax>9593</xmax>
 			<ymax>1038</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>water</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8294</xmin>
+			<ymin>2634</ymin>
+			<xmax>8522</xmax>
+			<ymax>2779</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>water</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>703</xmin>
+			<ymin>4261</ymin>
+			<xmax>867</xmax>
+			<ymax>4379</ymax>
 		</bndbox>
 	</object>
 </annotation>
