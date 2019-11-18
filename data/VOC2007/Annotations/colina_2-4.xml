@@ -287,16 +287,4 @@
 			<ymax>852</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>water</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>4794</xmin>
-			<ymin>3979</ymin>
-			<xmax>4894</xmax>
-			<ymax>4170</ymax>
-		</bndbox>
-	</object>
 </annotation>
