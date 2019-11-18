@@ -216,30 +216,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>water</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>9712</xmin>
-			<ymin>5379</ymin>
-			<xmax>9867</xmax>
-			<ymax>5515</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>circle_swim</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>10894</xmin>
-			<ymin>3834</ymin>
-			<xmax>11376</xmax>
-			<ymax>4306</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>swimming</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
