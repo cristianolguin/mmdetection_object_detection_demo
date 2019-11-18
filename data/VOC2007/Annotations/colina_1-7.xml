@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Nueva carpeta</folder>
+	<folder>JPEGImages</folder>
 	<filename>colina_1-7.jpg</filename>
-	<path>D:\sii\percepcion_remota\Nueva carpeta\colina_1-7.jpg</path>
+	<path>D:\cristian.olguin\Mis documentos\GitHub\mmdetection_object_detection_demo\data\VOC2007\JPEGImages\colina_1-7.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -161,10 +161,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1093</xmin>
-			<ymin>5581</ymin>
-			<xmax>1850</xmax>
-			<ymax>6038</ymax>
+			<xmin>1258</xmin>
+			<ymin>5645</ymin>
+			<xmax>1641</xmax>
+			<ymax>5997</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -173,10 +173,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2093</xmin>
-			<ymin>4867</ymin>
-			<xmax>2665</xmax>
-			<ymax>5295</ymax>
+			<xmin>2203</xmin>
+			<ymin>4967</ymin>
+			<xmax>2529</xmax>
+			<ymax>5197</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -185,10 +185,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>6079</xmin>
-			<ymin>2881</ymin>
-			<xmax>6479</xmax>
-			<ymax>3452</ymax>
+			<xmin>6176</xmin>
+			<ymin>3017</ymin>
+			<xmax>6443</xmax>
+			<ymax>3370</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -197,10 +197,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3779</xmin>
-			<ymin>1195</ymin>
-			<xmax>4050</xmax>
-			<ymax>1710</ymax>
+			<xmin>3815</xmin>
+			<ymin>1259</ymin>
+			<xmax>4040</xmax>
+			<ymax>1670</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -209,10 +209,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>6322</xmin>
-			<ymin>1238</ymin>
-			<xmax>6607</xmax>
-			<ymax>1724</ymax>
+			<xmin>6394</xmin>
+			<ymin>1329</ymin>
+			<xmax>6570</xmax>
+			<ymax>1597</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -221,10 +221,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>10879</xmin>
+			<xmin>11012</xmin>
 			<ymin>2138</ymin>
-			<xmax>11536</xmax>
-			<ymax>2581</ymax>
+			<xmax>11467</xmax>
+			<ymax>2552</ymax>
 		</bndbox>
 	</object>
 </annotation>
