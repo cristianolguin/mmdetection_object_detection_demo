@@ -1,7 +1,7 @@
 <annotation>
-	<folder>JPEGImages</folder>
+	<folder>Nueva carpeta</folder>
 	<filename>colina_1-8.jpg</filename>
-	<path>D:\cristian.olguin\Mis documentos\GitHub\mmdetection_object_detection_demo\data\VOC2007\JPEGImages\colina_1-8.jpg</path>
+	<path>D:\sii\percepcion_remota\Nueva carpeta\colina_1-8.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -101,8 +101,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3603</xmin>
-			<ymin>2361</ymin>
+			<xmin>3436</xmin>
+			<ymin>2367</ymin>
 			<xmax>4779</xmax>
 			<ymax>3281</ymax>
 		</bndbox>
@@ -161,10 +161,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3041</xmin>
-			<ymin>4995</ymin>
-			<xmax>4726</xmax>
-			<ymax>5995</ymax>
+			<xmin>3022</xmin>
+			<ymin>4967</ymin>
+			<xmax>4707</xmax>
+			<ymax>5967</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>swimming</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1379</xmin>
+			<ymin>4710</ymin>
+			<xmax>1850</xmax>
+			<ymax>5152</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -185,10 +197,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2658</xmin>
-			<ymin>4970</ymin>
-			<xmax>3212</xmax>
-			<ymax>5379</ymax>
+			<xmin>2622</xmin>
+			<ymin>4967</ymin>
+			<xmax>3165</xmax>
+			<ymax>5367</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -197,10 +209,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>4689</xmin>
-			<ymin>2374</ymin>
-			<xmax>5203</xmax>
-			<ymax>2861</ymax>
+			<xmin>4707</xmin>
+			<ymin>2310</ymin>
+			<xmax>5207</xmax>
+			<ymax>2795</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -209,10 +221,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>8454</xmin>
-			<ymin>5628</ymin>
-			<xmax>8958</xmax>
-			<ymax>6152</ymax>
+			<xmin>6436</xmin>
+			<ymin>1952</ymin>
+			<xmax>7007</xmax>
+			<ymax>2410</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -221,10 +233,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>6403</xmin>
-			<ymin>1915</ymin>
-			<xmax>7049</xmax>
-			<ymax>2406</ymax>
+			<xmin>8436</xmin>
+			<ymin>5610</ymin>
+			<xmax>8907</xmax>
+			<ymax>6052</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>swimming</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9465</xmin>
+			<ymin>5181</ymin>
+			<xmax>10022</xmax>
+			<ymax>5652</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>swimming</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10907</xmin>
+			<ymin>3867</ymin>
+			<xmax>11407</xmax>
+			<ymax>4295</ymax>
 		</bndbox>
 	</object>
 </annotation>
