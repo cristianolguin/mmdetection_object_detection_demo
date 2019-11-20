@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Nueva carpeta</folder>
+	<folder>JPEGImages</folder>
 	<filename>colina_1-10.jpg</filename>
-	<path>D:\sii\percepcion_remota\Nueva carpeta\colina_1-10.jpg</path>
+	<path>D:\cristian.olguin\Mis documentos\GitHub\mmdetection_object_detection_demo\data\VOC2007\JPEGImages\colina_1-10.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -24,26 +24,14 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>swimming</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>9265</xmin>
-			<ymin>3995</ymin>
-			<xmax>9965</xmax>
-			<ymax>4253</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>building</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>9293</xmin>
-			<ymin>4538</ymin>
-			<xmax>11465</xmax>
+			<ymin>4652</ymin>
+			<xmax>10812</xmax>
 			<ymax>5238</ymax>
 		</bndbox>
 	</object>
