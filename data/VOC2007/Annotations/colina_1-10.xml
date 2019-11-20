@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>building</name>
+		<name>b1</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -33,6 +33,18 @@
 			<ymin>4652</ymin>
 			<xmax>10812</xmax>
 			<ymax>5238</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>b1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7033</xmin>
+			<ymin>4807</ymin>
+			<xmax>7893</xmax>
+			<ymax>5853</ymax>
 		</bndbox>
 	</object>
 </annotation>
