@@ -215,16 +215,4 @@
 			<ymax>2410</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>swimming</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>8436</xmin>
-			<ymin>5610</ymin>
-			<xmax>8907</xmax>
-			<ymax>6052</ymax>
-		</bndbox>
-	</object>
 </annotation>
