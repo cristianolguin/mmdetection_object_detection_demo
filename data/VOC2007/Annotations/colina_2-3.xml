@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Nueva carpeta</folder>
+	<folder>JPEGImages</folder>
 	<filename>colina_2-3.jpg</filename>
-	<path>D:\sii\percepcion_remota\Nueva carpeta\colina_2-3.jpg</path>
+	<path>D:\cristian.olguin\Mis documentos\GitHub\mmdetection_object_detection_demo\data\VOC2007\JPEGImages\colina_2-3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>5263</xmin>
+			<xmin>5340</xmin>
 			<ymin>4682</ymin>
 			<xmax>6330</xmax>
-			<ymax>5149</ymax>
+			<ymax>5143</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,58 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>6913</xmin>
-			<ymin>3366</ymin>
-			<xmax>7280</xmax>
-			<ymax>3849</ymax>
+			<xmin>6940</xmin>
+			<ymin>3370</ymin>
+			<xmax>7331</xmax>
+			<ymax>3879</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3894</xmin>
+			<ymin>4938</ymin>
+			<xmax>4893</xmax>
+			<ymax>5434</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6550</xmin>
+			<ymin>4181</ymin>
+			<xmax>7658</xmax>
+			<ymax>5261</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7907</xmin>
+			<ymin>3995</ymin>
+			<xmax>9136</xmax>
+			<ymax>4624</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>house</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10649</xmin>
+			<ymin>3410</ymin>
+			<xmax>11679</xmax>
+			<ymax>4324</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +113,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>5413</xmin>
-			<ymin>3666</ymin>
-			<xmax>5930</xmax>
-			<ymax>3866</ymax>
+			<xmin>11140</xmin>
+			<ymin>2479</ymin>
+			<xmax>11558</xmax>
+			<ymax>3043</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>building</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>922</xmin>
+			<ymin>5181</ymin>
+			<xmax>2079</xmax>
+			<ymax>6238</ymax>
 		</bndbox>
 	</object>
 </annotation>

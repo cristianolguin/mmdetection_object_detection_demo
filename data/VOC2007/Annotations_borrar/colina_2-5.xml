@@ -1,7 +1,7 @@
 <annotation>
-	<folder>JPEGImages</folder>
-	<filename>colina_1-12.jpg</filename>
-	<path>D:\cristian.olguin\Mis documentos\GitHub\mmdetection_object_detection_demo\data\VOC2007\JPEGImages\colina_1-12.jpg</path>
+	<folder>Nueva carpeta</folder>
+	<filename>colina_2-5.jpg</filename>
+	<path>D:\sii\percepcion_remota\Nueva carpeta\colina_2-5.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>4647</xmin>
-			<ymin>232</ymin>
-			<xmax>6013</xmax>
-			<ymax>982</ymax>
+			<xmin>980</xmin>
+			<ymin>3082</ymin>
+			<xmax>2263</xmax>
+			<ymax>4399</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>7447</xmin>
-			<ymin>682</ymin>
-			<xmax>8780</xmax>
-			<ymax>1366</ymax>
+			<xmin>5063</xmin>
+			<ymin>1632</ymin>
+			<xmax>6363</xmax>
+			<ymax>2949</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>9480</xmin>
-			<ymin>1599</ymin>
-			<xmax>11497</xmax>
-			<ymax>2782</ymax>
+			<xmin>1330</xmin>
+			<ymin>782</ymin>
+			<xmax>2663</xmax>
+			<ymax>1966</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2166</xmin>
-			<ymin>2257</ymin>
-			<xmax>3112</xmax>
-			<ymax>3034</ymax>
+			<xmin>1480</xmin>
+			<ymin>5066</ymin>
+			<xmax>1880</xmax>
+			<ymax>5532</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>swimming</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7930</xmin>
+			<ymin>2416</ymin>
+			<xmax>8663</xmax>
+			<ymax>2832</ymax>
 		</bndbox>
 	</object>
 </annotation>
